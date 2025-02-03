@@ -43,7 +43,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @AutoConfigureMockMvc
 class MultiTenantHeaderApplicationTests {
 
-    static final String HEADER_NAME = "TEST-TENANT-ID=";
+    static final String HEADER_NAME = "TEST-TENANT-ID";
 
     @Autowired
     private MockMvc mockMvc;
