@@ -5,12 +5,12 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.2.0</version>
+        <version>3.4.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.quantics</groupId>
     <artifactId>multitenant-oauth2-spring-boot-starter</artifactId>
-    <version>0.4.0</version>
+    <version>0.5.0-SNAPSHOT</version>
     <name>Spring Boot starter library for multi-tenant OAuth2 resource servers</name>
 
     <licenses>
